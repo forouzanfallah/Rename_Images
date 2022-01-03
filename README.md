@@ -1,7 +1,7 @@
 # Rename_Images
 the exe file which rename all bmp images in a folder in "Date-Time-FrameNumber-CameraSerialNum-Front/Rear.png" format  and convert to png
 
-## create .exe file in ubunto
+## create .exe file in ubuntu
 
 Step 1: 
 Install the library pyinstaller. pip3 install pyinstaller
